@@ -4,6 +4,28 @@
 A new Flutter project.
 
 ## Getting Started
+✅ Features:
+
+🔐 Firebase Authentication
+
+🛍️ Add to Cart and Order Flow
+
+🍔 Dynamic Burger Menu
+
+❤️ Favorites & User Profile
+
+🌐 Web, Android, Windows, macOS, and iOS Support
+
+🚀 Tech Stack:
+
+Flutter & Dart
+
+Firebase (Auth, Firestore)
+
+GitHub for Version Control
+
+Cross-platform build (mobile, desktop, web)
+
 
 This project is a starting point for a Flutter application.
 
